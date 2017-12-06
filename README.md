@@ -24,7 +24,7 @@ Open DyCon_RaTish_v4.maxpat in Max/MSP and set localhost and port information fo
 
 ## Authors
 
-* **Daniel Miller** - *Initial work* - [BronzeByGold](https://github.com/bronzebygold)
+* **Daniel Miller** - [BronzeByGold](https://github.com/bronzebygold)
 * **Rao Sharath**
 
 ## License
