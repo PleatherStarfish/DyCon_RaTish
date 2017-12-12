@@ -1,6 +1,6 @@
 # Dynamic Contour Representation Tool (DyCon RaTish)
 
-The Dynamic Contour Representation Tool (DyCon RaTish) is a collection of experimental software programs developed to support colaborations between musicians, composers, and educators working with melodic performances practices outside of the context of codified notational and  reprosentational modalities. In particular, DyCon RaTish is being developed in colaboration with Karnatic (South Indian) musicians, including singer Rao Sharath, to explore experimental approaches to human-computer interactivity and feedback cycles in performance of experimental music. 
+The Dynamic Contour Representation Tool (DyCon RaTish) is a collection of experimental software programs developed to support collaborations between musicians, composers, and educators working with melodic performances practices outside of the context of codified notational and representational modalities. In particular, DyCon RaTish is being developed in collaboration with Karnatic (South Indian) musicians, including singer Rao Sharath, to explore experimental approaches to human-computer interactivity and feedback cycles in performance of experimental music.
 
 ![screen_shot](https://github.com/bronzebygold/DyCon_RaTish/blob/master/screenShot.png?raw=true)
 
